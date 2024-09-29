@@ -17,8 +17,15 @@
 
 ## Result
 ### Extracted Frame
-![Extracted Frame](https://cdn.discordapp.com/attachments/1284411927115595786/1289821731502161962/frame_0_1.jpg?ex=66fa3798&is=66f8e618&hm=98147268bab760d8c16d128d9785b3bf6224fe15ac94aedcf97c17b4a411a8ee&)
+<img src="https://cdn.discordapp.com/attachments/1284411927115595786/1289821731502161962/frame_0_1.jpg?ex=66fa3798&is=66f8e618&hm=98147268bab760d8c16d128d9785b3bf6224fe15ac94aedcf97c17b4a411a8ee&" alt="Extracted Frame" width="400"/>
 
 ### Comparitive result
-![Comparitive Reult]([https://i.postimg.cc/2j4jH3CT/poc-submission.png](https://freeimage.host/i/dZ83qy7))
+#### Image 1
+<img src="https://iili.io/dZ83qy7.png" alt="Comparative Result" width="400"/>
+
+#### Image 2
+<img src="https://iili.io/dZ85H5F.jpg" alt="Comparative Result 2" width="400"/>
+
+#### Image 3
+<img src="https://iili.io/dZ8U92V.png" alt="Comparative Result 3" width="400"/>
 
