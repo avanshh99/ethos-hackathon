@@ -20,5 +20,5 @@
 ![Extracted Frame](https://cdn.discordapp.com/attachments/1284411927115595786/1289821731502161962/frame_0_1.jpg?ex=66fa3798&is=66f8e618&hm=98147268bab760d8c16d128d9785b3bf6224fe15ac94aedcf97c17b4a411a8ee&)
 
 ### Comparitive result
-![Comparitive Reult](https://i.postimg.cc/2j4jH3CT/poc-submission.png)
+![Comparitive Reult]([https://i.postimg.cc/2j4jH3CT/poc-submission.png](https://freeimage.host/i/dZ83qy7))
 
