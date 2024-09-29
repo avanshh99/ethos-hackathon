@@ -38,3 +38,8 @@ The result folder contains codeFormer_result and gfpgan_result respectively.
 #### Image 3
 
 <img src="https://iili.io/dZ8U92V.png" alt="Comparative Result 3" width="400"/>
+
+#### Link to complete result set:
++ [CodeFormer](https://drive.google.com/file/d/1FwWUeVGKWGQP0BgxOEZ8CAmtO-eYAevl/view?usp=sharing)
+
++ [GFPGAN](https://drive.google.com/file/d/1w6nxfkwU5Z_LU_ekIIrNvQNNa_ioblwk/view?usp=sharing)
