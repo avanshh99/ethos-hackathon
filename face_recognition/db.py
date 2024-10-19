@@ -6,15 +6,6 @@ from redis.commands.search.query import Query
 from deepface import DeepFace
 import numpy as np
 
-r = redis.Redis(
-  host='redis-17799.c253.us-central1-1.gce.redns.redis-cloud.com',
-  port=17799,
-  password='uAmOPKyr5wZQ0DskgcWaxzJWW3Jatger',
-  ssl = False,
-  )
-
-print(r.ping())
-
 def redis_init():
     r = redis.Redis(
         host='redis-17799.c253.us-central1-1.gce.redns.redis-cloud.com',

@@ -12,30 +12,6 @@ MODEL_RESULTS_PATH = './ModelRes'
 MODEL_WEIGHT=0.5
 DATASET_DIR = "Celebrity Faces Dataset"
 
-
-# def workflow(video_path):
-#   extract_frames(video_path, output_dir=VID_EXTRACTION_RES, frame_interval=FRAME_INTERVAL, extract_faces=True)
-#   run_codeformer_again(input_path=VID_EXTRACTION_RES, output_path=MODEL_RESULTS_PATH, weight=MODEL_WEIGHT)
-
-# def face_recognition(img_path):
-#   run_codeformer_again(input_path=img_path, output_path=MODEL_RESULTS_PATH, weight=MODEL_WEIGHT)
-#   r = redis_init()
-#   restored_image_name = os.path.basename(img_path)  # Extract just the image name
-#   restored_image_path = os.path.join(MODEL_RESULTS_PATH, "restored_faces", restored_image_name)
-
-#     # Check if the restored image exists
-#   if not os.path.exists(restored_image_path):
-#         print(f"Restored image not found: {restored_image_path}")
-#         return
-
-#     # Step 3: Perform vector search on the restored image
-#   print(f"Running vector search on restored image: {restored_image_path}")
-#   matching_documents = vector_query(img_path=restored_image_path)
-
-#   get_images(dataset_dir=DATASET_DIR, output_dir=MATCHES, results=matching_documents)
-
-
-
 def process_video_workflow(video_path, output_dir, frame_interval=30):
     print('Video processing')
     """
