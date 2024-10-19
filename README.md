@@ -56,8 +56,10 @@ Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates
 
 ### UI 
 <img src="https://i.postimg.cc/t4b4G1WF/Whats-App-Image-2024-10-19-at-20-56-21-8ed59cc4.jpg" alt="Comparative Result 3" width="400"/>
-<img src="https://i.postimg.cc/8P5qJTGx/Whats-App-Image-2024-10-19-at-20-56-20-065e44c92222222222222.jpg)" alt="Comparative Result 3" width="400"/>
-
+<img src="https://i.postimg.cc/8P5qJTGx/Whats-App-Image-2024-10-19-at-20-56-20-065e44c92222222222222.jpg" alt="Comparative Result 3" width="400"/>
+<img src="blob:https://web.whatsapp.com/a057bf74-f3a7-4485-a43b-735863b3d850" alt="Comparative Result 3" width="400"/>
+<img src="blob:https://web.whatsapp.com/5e6a5345-c931-44c2-98b4-dccfe5d6ec60" alt="Comparative Result 3" width="400"/>
+<img src="blob:https://web.whatsapp.com/c274ed0f-71df-465a-a8b5-ba9334f97b43" alt="Comparative Result 3" width="400"/>
 
 
 #### Link to complete result set:
