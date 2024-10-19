@@ -21,6 +21,21 @@
 The result folder contains codeFormer_result and gfpgan_result respectively.
 [result/gfpgan_result/cmp](result/gfpgan_result/cmp) and [result/coderformer_result/compare](result/codeformer_result/compare) contains side by side comparison of extracted and enhanced image
 
+## Added Features
+
+Real-Time Monitoring:
+Implemented real-time monitoring using OpenCV2 and the face_recognition library. This allows the system to detect and recognize faces in real-time from live video feeds or pre-recorded videos.
+
+Vector Database for Face Recognition:
+Integrated a vector database for face recognition to detect and identify suspects from a pre-existing database. If the person is known, the system flags the match and provides relevant information.
+
+3D Face Reconstruction (3DDFA-V3):
+Added 3D face reconstruction using 3DDFA-V3, where the system can construct a 3D mesh of the detected face. By using RetinaFace for enhanced image processing, users can view the 3D model of the face in a 360-degree view.
+
+UI/UX (Facial-Police):
+Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates the reconstruction of faces from CCTV footage or other video scenarios. The interface allows seamless access, making it easy for users to upload footage, reconstruct faces, and analyze results without hassle.
+
+
 ### Extracted Frame
 
 <img src="https://cdn.discordapp.com/attachments/1284411927115595786/1289821731502161962/frame_0_1.jpg?ex=66fa3798&is=66f8e618&hm=98147268bab760d8c16d128d9785b3bf6224fe15ac94aedcf97c17b4a411a8ee&" alt="Extracted Frame" width="400"/>
@@ -38,6 +53,12 @@ The result folder contains codeFormer_result and gfpgan_result respectively.
 #### Image 3
 
 <img src="https://iili.io/dZ8U92V.png" alt="Comparative Result 3" width="400"/>
+
+### UI 
+<img src="https://i.postimg.cc/t4b4G1WF/Whats-App-Image-2024-10-19-at-20-56-21-8ed59cc4.jpg" alt="Comparative Result 3" width="400"/>
+<img src="https://i.postimg.cc/8P5qJTGx/Whats-App-Image-2024-10-19-at-20-56-20-065e44c92222222222222.jpg)" alt="Comparative Result 3" width="400"/>
+
+
 
 #### Link to complete result set:
 + [CodeFormer](https://drive.google.com/file/d/1FwWUeVGKWGQP0BgxOEZ8CAmtO-eYAevl/view?usp=sharing)
