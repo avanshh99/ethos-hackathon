@@ -1,0 +1,7 @@
+torch
+redis
+kaggle
+numpy
+facenet-pytorch
+opencv-python
+deepface
