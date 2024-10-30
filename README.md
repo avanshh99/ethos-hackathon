@@ -1,4 +1,4 @@
-# Round 1 solution for ML statement of Ethos Hackathon
+#FACIAL POLICE :  Solution for reconstructing human faces from low-quality CCTV footage
 
 ## Approach:
 
