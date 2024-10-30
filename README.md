@@ -1,4 +1,4 @@
-#FACIAL POLICE :  Solution for reconstructing human faces from low-quality CCTV footage
+## FACIAL POLICE :  Solution for reconstructing human faces from low-quality CCTV footage
 
 ## Approach:
 
